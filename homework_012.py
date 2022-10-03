@@ -14,3 +14,4 @@ def multiplication_of_pairs(new_list):
 new_list = [value for value in range(1, randrange(4,20))]
 print(new_list)
 print(multiplication_of_pairs(new_list))
+
